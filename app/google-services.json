@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058482703345",
+    "project_id": "pokemaper-fba55",
+    "storage_bucket": "pokemaper-fba55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058482703345:android:78cf3d215debca65e59250",
+        "android_client_info": {
+          "package_name": "be.ehb.pokemaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058482703345-ts1u95osraec20olhn31g3c98o81ohjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0KT9QqSp8DmbYMxC3MzyfskbM3t-rvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058482703345-ts1u95osraec20olhn31g3c98o81ohjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
